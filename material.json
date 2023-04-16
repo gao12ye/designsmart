@@ -2,72 +2,100 @@
     "ext": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
         "unitCost": "",
         "length": "",
-        "thickness": ""
+        "height":"",
+        "thickness": "",
+        "weight":""
+
     },
     "glass": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
         "unitCost": "",
-        "width": "",
-        "height": "",
-        "thickness": ""
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     },
     "hardware": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
-        "unitCost": ""
+        "unitCost": "",
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     },
     "reveals": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
-        "unitCost": ""
+        "unitCost": "",
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     },        
     "supportBar": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
         "unitCost": "",
-        "length": ""
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     },
     "headFlashing": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
         "unitCost": "",
-        "length": ""
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     },
     "sillTray": {
         "sku": "",
         "series": "",
+        "materialType":"",
         "name": "",
         "code": "",
         "color": "",
         "unit": "",
         "unitCost": "",
-        "length": ""
+        "length": "",
+        "height":"",
+        "thickness": "",
+        "weight":""
     }
 }
