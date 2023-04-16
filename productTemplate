@@ -1,0 +1,235 @@
+{
+    "items": [
+        {
+            "code": "",
+            "type": "",
+            "plotDimension": {
+                "width": {
+                    "w": "",
+                    "w1": "",
+                    "w2": "",
+                    "w3": ""
+                },
+                "height": {
+                    "h": "",
+                    "h1": "",
+                    "h2": "",
+                    "h3": ""
+                }
+            },
+            "components": {
+                "frame": {
+                    "items": [
+                        {
+                            "ext": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "length": "",
+                                        "cutAngle": "",
+                                        "weight": "",
+                                        "location": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "mulion": {
+                    "items": [
+                        {
+                            "ext": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "length": "",
+                                        "cutAngle": "",
+                                        "weight": "",
+                                        "location": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "transom": {
+                    "items": [
+                        {
+                            "ext": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "length": "",
+                                        "cutAngle": "",
+                                        "weight": "",
+                                        "location": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "sash": {
+                    "items": [
+                        {
+                            "ext": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "length": "",
+                                        "cutAngle": "",
+                                        "weight": "",
+                                        "location": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "glass": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "type": "",
+                                        "color": "",
+                                        "use": "",
+                                        "width": "",
+                                        "height": "",
+                                        "weight": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "pannel": {
+                    "items": [
+                        {
+                            "ext": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "length": "",
+                                        "cutAngle": "",
+                                        "weight": "",
+                                        "location": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "glass": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "type": "",
+                                        "color": "",
+                                        "use": "",
+                                        "width": "",
+                                        "height": "",
+                                        "weight": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "fixed glass": {
+                    "item": [
+                        {
+                            "glass": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "type": "",
+                                        "color": "",
+                                        "use": "",
+                                        "width": "",
+                                        "height": "",
+                                        "weight": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            },
+                            "hardware": {
+                                "items": [
+                                    {
+                                        "code": "",
+                                        "name": "",
+                                        "color": "",
+                                        "cost": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

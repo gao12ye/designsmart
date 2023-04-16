@@ -1,0 +1,105 @@
+{
+    "project": "",
+    "productQty": "",
+    "siteAddress": "",
+    "etd": "",
+    "products": [
+        {
+            "productId": "",
+            "productType": "",
+            "productTemplateId":"",
+            "width": "",
+            "height": "",
+            "w1":"",
+            "w2":"",
+            "h1":"",
+            "h2":"",
+            "color": ""
+        }
+    ],
+    "bom": {
+        "ext": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "color": "",
+                    "length": "",
+                    "cutAngle": "",
+                    "weight": "",
+                    "location": "",
+                    "cost": ""
+                }
+            ]
+        },
+        "glass": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "type": "",
+                    "color": "",
+                    "use": "",
+                    "width": "",
+                    "height": "",
+                    "weight": "",
+                    "cost": ""
+                }
+            ]
+        },
+        "hardware": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "color": "",
+                    "cost": ""
+                }
+            ]
+        },
+        "reveals": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "location": "",
+                    "length": "",
+                    "cost": ""
+                }
+            ]
+        },
+        "supportBars": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "length": "",
+                    "cost": ""
+                }
+            ]
+        },
+        "headFlashing": {
+            "items": [
+                {
+                    "code": "",
+                    "name": "",
+                    "length": "",
+                    "cost": ""
+                }
+            ]
+        }
+    },
+    "labour":{
+        "cutting":"",
+        "prepping":"",
+        "assembling":"",
+        "glass":"",
+        "revealing":"",
+        "glazing":"",
+        "delivery":"",
+        "osg":"",
+        "maintenance":"",
+        "quotation":"",
+        "projectmgt":""
+    }
+}

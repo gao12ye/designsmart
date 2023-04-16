@@ -1,0 +1,73 @@
+{
+    "ext": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": "",
+        "length": "",
+        "thickness": ""
+    },
+    "glass": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": "",
+        "width": "",
+        "height": "",
+        "thickness": ""
+    },
+    "hardware": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": ""
+    },
+    "reveals": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": ""
+    },        
+    "supportBar": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": "",
+        "length": ""
+    },
+    "headFlashing": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": "",
+        "length": ""
+    },
+    "sillTray": {
+        "sku": "",
+        "series": "",
+        "name": "",
+        "code": "",
+        "color": "",
+        "unit": "",
+        "unitCost": "",
+        "length": ""
+    }
+}
